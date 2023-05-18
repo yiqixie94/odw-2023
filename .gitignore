@@ -1,1 +1,6 @@
 *.ipynb_checkpoints
+*.gwf
+*.hdf5
+Tutorials/Day_3/short/
+Tutorials/Day_3/toy_model/
+.DS_Store
